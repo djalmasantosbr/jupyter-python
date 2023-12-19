@@ -1,0 +1,27 @@
+INFO:root:Ola
+INFO:root:Ola
+INFO:root:Ola
+INFO:root:Ola
+INFO:root:Ola
+INFO:root:Ola
+CRITICAL:root: Erro grave
+INFO:root:Ola
+CRITICAL:root: Erro grave
+ERROR:root: Erro do tipo Error
+DEBUG:root: Erro do tipo debug
+WARNING:root:Erro grave
+INFO:root:Ola
+CRITICAL:root: Erro grave
+ERROR:root: Erro do tipo Error
+DEBUG:root: Erro do tipo debug
+WARNING:root:Erro grave
+INFO:root: Ola
+CRITICAL:root: Erro grave
+ERROR:root: Erro do tipo Error
+DEBUG:root: Erro do tipo debug
+WARNING:root: Erro grave
+INFO 2023-12-19 10:52:23,860 -  Ola
+CRITICAL 2023-12-19 10:52:23,861 -  Erro grave
+ERROR 2023-12-19 10:52:23,861 -  Erro do tipo Error
+DEBUG 2023-12-19 10:52:23,862 -  Erro do tipo debug
+WARNING 2023-12-19 10:52:23,863 -  Erro grave
