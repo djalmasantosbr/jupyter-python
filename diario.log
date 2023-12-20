@@ -25,3 +25,9 @@ CRITICAL 2023-12-19 10:52:23,861 -  Erro grave
 ERROR 2023-12-19 10:52:23,861 -  Erro do tipo Error
 DEBUG 2023-12-19 10:52:23,862 -  Erro do tipo debug
 WARNING 2023-12-19 10:52:23,863 -  Erro grave
+ERROR 2023-12-19 12:02:53,660 - No such comm target registered: jupyter.widget.control
+WARNING 2023-12-19 12:02:53,660 - No such comm: 84434ae9-6ce0-4b70-a333-739646e5308b
+DEBUG 2023-12-19 12:02:53,660 - Current comms: []
+ERROR 2023-12-19 14:28:32,142 - No such comm target registered: jupyter.widget.control
+WARNING 2023-12-19 14:28:32,142 - No such comm: fa97dcbd-29e6-4331-bff5-0876fced6893
+DEBUG 2023-12-19 14:28:32,142 - Current comms: []
